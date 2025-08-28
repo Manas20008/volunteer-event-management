@@ -1,31 +1,34 @@
 # 🌍 Volunteer Event Management Web Application  
 
-A full-stack web application to create, manage, and participate in community volunteer events with **real-time updates**, **role-based access**, **push notifications**, and an **admin analytics dashboard**.  
-
-Built using React**, Node.js, Express, MongoDB, and Firebase.  
-
----
-🚀 Repo / Project Badges (for top of README)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Manas20008/volunteer-event-management?style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/Manas20008/volunteer-event-management?style=for-the-badge)  
 ![GitHub stars](https://img.shields.io/github/stars/Manas20008/volunteer-event-management?style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/Manas20008/volunteer-event-management?style=for-the-badge)  
-![GitHub license](https://img.shields.io/github/license/Manas20008/volunteer-event-management?style=for-the-badge)  
-![Last Commit](https://img.shields.io/github/last-commit/Manas20008/volunteer-event-management?style=for-the-badges)
+![GitHub issues](https://img.shields.io/github/issues/Manas20008/volunteer-event-management?style=for-the-badge)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)  
 
-## ✨ Features  
+A **full-stack web application** to create, manage, and participate in community volunteer events with **real-time updates**, **role-based access**, **push notifications**, and an **admin analytics dashboard**.  
 
-- 📅 **Event Management** – Create, update, delete, and browse volunteer events in real-time.  
-- 👥 **User Roles & Authentication** – Secure login with roles for **Admins, Organizers, and Volunteers**.  
-- 🔔 **Push Notifications** – Integrated with **Firebase Cloud Messaging** for instant alerts.  
-- 🙋 **User Profiles** – Track participation history and badges earned by volunteers.  
-- 📊 **Admin Dashboard** – Interactive analytics and visualizations of volunteer activity.  
-- ⚡ **Performance Optimizations** – Lazy loading with blur-up placeholders for faster experience.  
-- 📱 **Responsive Design** – Fully responsive UI with **Material UI** for desktop & mobile.  
+Built with ❤️ using **React**, **Node.js**, **Express**, **MongoDB**, and **Firebase**.  
+
+---
+
+## 📌 Features  
+
+![Features](https://img.shields.io/badge/Features-Available-green?style=for-the-badge&logo=checkmarx)  
+
+- 🚀 **Event Management:** Create, update, delete, and browse volunteer events in real-time.  
+- 🔑 **User Roles & Authentication:** Secure login system with roles for Admins, Organizers, and Volunteers.  
+- 🔔 **Push Notifications:** Firebase Cloud Messaging integration for instant volunteer alerts.  
+- 👤 **User Profiles:** Track event participation and badges earned by volunteers.  
+- 📊 **Admin Dashboard:** Interactive analytics & visualizations of volunteer activity.  
+- ⚡ **Performance Optimizations:** Lazy loading images with blur-up placeholders.  
+- 📱 **Responsive Design:** Fully responsive UI built with Material UI.
+- 
+---
 
 ## ⚡ Getting Started  
 
-Follow these steps to set up the project on your machine:  
+![Getting Started](https://img.shields.io/badge/Setup-Guide-orange?style=for-the-badge&logo=readme)  
 
 ### ✅ Prerequisites  
 - Node.js (v14 or above)  
@@ -74,29 +77,16 @@ npm start
 
 Open your browser at http://localhost:3000 🚀
 
-
 🛠️ Technologies Used
-⚛️ React
+🎨 Frontend
+⚙️ Backend
+🗄️ Database
+☁️ Cloud & Notifications
+🔗 Real-Time Updates
+📊 Data Visualization
+🛡️ Security
+🚀 Dev Tools
 
-🎨 Material UI
 
-🖥️ Node.js & Express
 
-🍃 MongoDB & Mongoose
 
-🔔 Firebase Cloud Messaging
-
-⚡ Socket.IO (real-time updates)
-
-📊 Recharts (analytics)
-
-🙌 Contributing
-Contributions, issues, and feature requests are welcome!
-Please fork the repo and submit a Pull Request.
-
-📜 License
-This project is open-source under the MIT License.
-
-📬 Contact
-👤 Your Name – your.email@example.com
-🔗 Project Link – Volunteer Event Management
