@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# volunteer-event-management
+A full-stack web application to create, manage, and participate in community volunteer events with real-time updates, user roles, push notifications, and admin analytics dashboards built using React, Node.js, MongoDB, and Firebase.
+>>>>>>> 80adaf4c8cdf312905459efdbe065b3a33c1825c
