@@ -1,75 +1,95 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 🌍 Volunteer Event Management Web Application  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack web application to create, manage, and participate in community volunteer events with **real-time updates**, **role-based access**, **push notifications**, and an **admin analytics dashboard**.  
 
-## Available Scripts
+Built using React**, Node.js, Express, MongoDB, and Firebase.  
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📅 **Event Management** – Create, update, delete, and browse volunteer events in real-time.  
+- 👥 **User Roles & Authentication** – Secure login with roles for **Admins, Organizers, and Volunteers**.  
+- 🔔 **Push Notifications** – Integrated with **Firebase Cloud Messaging** for instant alerts.  
+- 🙋 **User Profiles** – Track participation history and badges earned by volunteers.  
+- 📊 **Admin Dashboard** – Interactive analytics and visualizations of volunteer activity.  
+- ⚡ **Performance Optimizations** – Lazy loading with blur-up placeholders for faster experience.  
+- 📱 **Responsive Design** – Fully responsive UI with **Material UI** for desktop & mobile.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚡ Getting Started  
 
-### `npm test`
+Follow these steps to set up the project on your machine:  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ✅ Prerequisites  
+- Node.js (v14 or above)  
+- MongoDB (local or cloud instance)  
+- Firebase Project (for push notifications)  
 
-### `npm run build`
+### 🔧 Installation  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Manas20008/volunteer-event-management.git
+   cd volunteer-event-management
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Backend Setup
+bash
+Copy code
+cd servesphere-backend
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Create a .env file in the backend directory with:
+env
+Copy code
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+FIREBASE_ADMIN_SDK_KEY=path_to_service_account_key.json
 
-### `npm run eject`
+4. Frontend Setup
+bash
+Copy code
+cd ../servesphere-frontend
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Run the Application
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Start backend server:
+bash
+Copy code
+cd ../servesphere-backend
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Start frontend development server:
+bash
+Copy code
+cd ../servesphere-frontend
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Open your browser at http://localhost:3000 🚀
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🛠️ Technologies Used
+⚛️ React
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🎨 Material UI
 
-### Code Splitting
+🖥️ Node.js & Express
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🍃 MongoDB & Mongoose
 
-### Analyzing the Bundle Size
+🔔 Firebase Cloud Messaging
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+⚡ Socket.IO (real-time updates)
 
-### Making a Progressive Web App
+📊 Recharts (analytics)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🙌 Contributing
+Contributions, issues, and feature requests are welcome!
+Please fork the repo and submit a Pull Request.
 
-### Advanced Configuration
+📜 License
+This project is open-source under the MIT License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# volunteer-event-management
-A full-stack web application to create, manage, and participate in community volunteer events with real-time updates, user roles, push notifications, and admin analytics dashboards built using React, Node.js, MongoDB, and Firebase.
->>>>>>> 80adaf4c8cdf312905459efdbe065b3a33c1825c
+📬 Contact
+👤 Your Name – your.email@example.com
+🔗 Project Link – Volunteer Event Management
