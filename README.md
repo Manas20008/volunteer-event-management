@@ -5,6 +5,13 @@ A full-stack web application to create, manage, and participate in community vol
 Built using React**, Node.js, Express, MongoDB, and Firebase.  
 
 ---
+🚀 Repo / Project Badges (for top of README)
+![GitHub repo size](https://img.shields.io/github/repo-size/Manas20008/volunteer-event-management?style=for-the-badge)  
+![GitHub issues](https://img.shields.io/github/issues/Manas20008/volunteer-event-management?style=for-the-badge)  
+![GitHub stars](https://img.shields.io/github/stars/Manas20008/volunteer-event-management?style=for-the-badge)  
+![GitHub forks](https://img.shields.io/github/forks/Manas20008/volunteer-event-management?style=for-the-badge)  
+![GitHub license](https://img.shields.io/github/license/Manas20008/volunteer-event-management?style=for-the-badge)  
+![Last Commit](https://img.shields.io/github/last-commit/Manas20008/volunteer-event-management?style=for-the-badges)
 
 ## ✨ Features  
 
