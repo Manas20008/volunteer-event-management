@@ -77,15 +77,43 @@ npm start
 
 Open your browser at http://localhost:3000 🚀
 
-🛠️ Technologies Used
-🎨 Frontend
-⚙️ Backend
-🗄️ Database
-☁️ Cloud & Notifications
-🔗 Real-Time Updates
-📊 Data Visualization
-🛡️ Security
-🚀 Dev Tools
+
+## 🛠️ Tech Stack  
+
+- ⚛️ **React** – Frontend library for building interactive UIs  
+- 🎨 **Material UI** – Component library for responsive and modern design  
+- 🖥️ **Node.js** – JavaScript runtime for backend services  
+- 🚏 **Express.js** – Lightweight backend framework for APIs  
+- 🍃 **MongoDB** – NoSQL database for storing application data  
+- 🧩 **Mongoose** – ODM for modeling MongoDB data in Node.js  
+- 🔑 **JWT (JSON Web Tokens)** – Secure authentication and authorization  
+- 🔒 **BCrypt** – Password hashing and encryption  
+- ☁️ **Firebase Cloud Messaging (FCM)** – Push notifications for users  
+- ⚡ **Socket.IO** – Real-time communication between client & server  
+- 📊 **Recharts** – Data visualization and analytics dashboards  
+- 🛠️ **Git & GitHub** – Version control and collaboration  
+- 📦 **NPM** – Dependency and package management  
+
+
+## 🙌 Contributing
+Contributions are always welcome!  
+
+1. Fork the repo  
+2. Create your feature branch (`git checkout -b feature/new-feature`)  
+3. Commit changes (`git commit -m 'Add new feature'`)  
+4. Push to the branch (`git push origin feature/new-feature`)  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+This project is **open-source** and available under the MIT License.  
+
+---
+
+## ⭐ Thanks
+Thanks for checking out this project!  
+If you found it useful, don’t forget to ⭐ star the repo.  
 
 
 
